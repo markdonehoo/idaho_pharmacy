@@ -1,4 +1,4 @@
-# iowa_pharmacy
+# idaho_pharmacy
 
 ## Returns .csv of all Pharmacist licenses in the state of Idaho
 
